@@ -1,0 +1,10 @@
+{
+  "name": "Android Kernel Builder (Minimal Ubuntu 24.04)",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  }
+}
